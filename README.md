@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://raw.githubusercontent.com/imlee2021/imlee2021/main/assets/github-contribution-grid-snake.svg)
+
