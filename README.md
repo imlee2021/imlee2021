@@ -1,20 +1,10 @@
-### Hi there 👋
-
-<!--
-**imlee2021/imlee2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<p align="center">
+     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B" alt="Hi there 👋" /></a>
+</p>
+<p align="Github">
+<a title="Hits" target="_blank" href="https://github.com/imlee2021/imlee2021"><img src="https://hits.b3log.org/imlee2021/imlee2021.svg" ></a>
+<a title="Github" target="_blank" href="https://github.com/imlee2021/imlee2021"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dimlee2021&labelColor=282c34&color=353940&logo=github&longCache=true"></a>
+</p>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -29,4 +19,3 @@ Here are some ideas to get you started:
     src="https://raw.githubusercontent.com/imlee2021/imlee2021/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
